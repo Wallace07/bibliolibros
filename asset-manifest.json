@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/bibliolibros/static/css/main.073c9b0a.css",
-    "main.js": "/bibliolibros/static/js/main.76ef40a4.js",
+    "main.js": "/bibliolibros/static/js/main.e718a433.js",
     "static/js/787.5d0e6723.chunk.js": "/bibliolibros/static/js/787.5d0e6723.chunk.js",
     "static/media/logo.svg": "/bibliolibros/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bibliolibros/index.html",
     "main.073c9b0a.css.map": "/bibliolibros/static/css/main.073c9b0a.css.map",
-    "main.76ef40a4.js.map": "/bibliolibros/static/js/main.76ef40a4.js.map",
+    "main.e718a433.js.map": "/bibliolibros/static/js/main.e718a433.js.map",
     "787.5d0e6723.chunk.js.map": "/bibliolibros/static/js/787.5d0e6723.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.76ef40a4.js"
+    "static/js/main.e718a433.js"
   ]
 }
