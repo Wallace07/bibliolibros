@@ -1,6 +1,6 @@
 {
-  "homepage": "https://wallace07.github.io/proyecto",
-  "name": "proyecto",
+  "homepage": "https://wallace07.github.io/bibliolibros",
+  "name": "bibliolibros",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
